@@ -1,3 +1,4 @@
-This is ReadME file.
-
-This is Modification.
+Telnet to router
+create two loopback interface and assign IP
+Save config as startup config
+exit
